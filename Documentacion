@@ -1,0 +1,26 @@
+	Documentacion: 
+		JavaScript
+			Que es JavaScript: https://developer.mozilla.org/es/docs/Web/JavaScript
+ 
+			Arreglos:     				https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array
+				push: 				https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/push
+				operador resto de una division: https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Operadores/Aritm%C3%A9ticos#.25_.28modular.29
+			
+			Manipulacion de DOM: 
+				document:                 https://developer.mozilla.org/es/docs/Web/API/Document
+				document.getElementById() https://developer.mozilla.org/es/docs/Web/API/Document/getElementById	
+		
+
+		Css:
+			https://getbootstrap.com/
+			
+		
+
+		// Fuction para ordernar el array
+		Array.prototype.sortNumbers = function(){
+		    return this.sort(
+		        function(a,b){
+		            return a - b
+		        }
+		    );
+		}

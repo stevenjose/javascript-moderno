@@ -1,13 +1,10 @@
 
-          Resuelva el siguiente Problema estableciendo un algoritmo mediante
-          el uso Pseudocódigos a través del block de notas:
+          Resuelva el siguiente enunciado usando como lenguaje de programación JavaScript:
 
-          Los números pares son aquellos que son múltiplos de 2. Sin
-          embargo, se sabe que la sumatoria de dos números pares da como
-          resultado un número par, y el mínimo número par es el 2; ejemplo:
-          4 + 2 = 6 y 6 + 2 = 8. Realice un algoritmo en el que una persona
+          Los números pares son aquellos que son múltiplos de 2. Realice un algoritmo en el que una persona
           inserte un valor y determine cuántos números pares existen antes de
-          ese valor; ejemplo: una persona inserta 21 y el algoritmo arroja que
-          existen 10 números pares antes de ese número
-          (2,4,6,8,10,12,14,16,18,20)
+          ese valor ejemplo: una persona inserta 21 y el algoritmo arroja que
+          existen 10 números pares antes de ese número.
+
+          Salida: (2,4,6,8,10,12,14,16,18,20)
 
